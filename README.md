@@ -1,2 +1,2 @@
-# projeto--tomo
+# projeto-átomo
 Site que estou criando simplificando um pouco a física...
